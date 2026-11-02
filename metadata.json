@@ -1,0 +1,6 @@
+{
+  "name": "Adrian Blake — Book Promotion & Creative Strategy Studio",
+  "description": "Editorial-grade book promotion, marketing strategy, cinematic book trailers, and 3D promotional visuals for authors and publishers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
